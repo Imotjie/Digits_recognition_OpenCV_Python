@@ -1,3 +1,4 @@
+![20240528_012214](https://github.com/ved-sharma/Digits_recognition_OpenCV_Python/assets/170988353/2074ec33-2d54-4cba-af3c-c5150ea51180)
 # Digits Recognition from an LCD panel using OpenCV and Python
 This project was inspired by the question asked on the [Image.sc forum](https://forum.image.sc/t/extract-numbers-from-image/55224)  
 
